@@ -9,7 +9,7 @@ It is developed during my internship at the Libra Softworks. \
 DEVELOPERS: \
 Emre Sezer \
 Atakan Özkan \
-Taha Tüfekçi \
+Taha Tüfekçi \\
 ARTISTS: \
 Dilara Toplu \
 Hande Hatice Yılmaz

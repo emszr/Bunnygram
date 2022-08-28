@@ -6,7 +6,7 @@ This game is developed in 1 month time period. \
 It is developed during my internship at the Libra Softworks. \
 
                           CREDITS:
-DEVELOPERS:
+DEVELOPERS: \
 Emre Sezer \
 Atakan Özkan \
 Taha Tüfekçi \

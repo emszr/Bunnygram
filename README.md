@@ -3,7 +3,7 @@ There are 3 different powerups to use in-game. Each powerup has its unique abili
 You can buy these powerups with diamonds you earn at each successful level. \
 \
 This game is developed in 1 month time period. \
-It is developed during my internship at the Libra Softworks. \
+It is developed during my internship at the Libra Softworks.
 
                           CREDITS
                           
